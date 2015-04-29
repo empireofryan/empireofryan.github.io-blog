@@ -32,7 +32,8 @@ Step two: Engage my new friends. Not only follow & retweet, but send private mes
 
 Step three: Keep producing new content. At least 3 posts a day minimum from my account, @empireofryan. So far I generally tweet about craft beer, Southern California hiking & fitness, front-end web development, and quality films.
 
-<iframe src="http://gifyoutube.com/gif/vOWNZZ?mute=true" frameborder="0" scrolling="no" width="440" height="400" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
+http://share.gifyoutube.com/vOWNZZ.gif
+
 
 … which is shown in the screenshot below:
 ![My helpful screenshot]({{ site.url }}/assets/screenshot.jpg)
